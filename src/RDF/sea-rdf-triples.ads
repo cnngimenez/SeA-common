@@ -22,7 +22,7 @@
 with League.Strings;
 use League.Strings;
 
-package SEA.RDF.Triples is
+package SeA.RDF.Triples is
     type Triple_Type is tagged private;
 
     type Object_Type_Type is (IRI, Literal, Blank_Node);
@@ -64,4 +64,4 @@ private
         Object_Type : Object_Type_Type;
     end record;
 
-end SEA.RDF.Triples;
+end SeA.RDF.Triples;

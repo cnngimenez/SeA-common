@@ -33,10 +33,12 @@ package SeA.Namespaces.Namespaces is
                                 Prefix : Universal_String;
                                 Iri : Universal_String);
 
-    --  procedure Delete_Namespace_By_Prefix (Namespaces : in out Namespaces_Type;
-    --                                        Prefix : Universal_String);
-    --  procedure Delete_Namespace_By_Iri (Namespaces : in out Namespaces_Type;
-    --                                    Iri : Universal_String);
+    --  procedure Delete_Namespace_By_Prefix
+    --    (Namespaces : in out Namespaces_Type;
+    --     Prefix : Universal_String);
+    --  procedure Delete_Namespace_By_Iri
+    --    (Namespaces : in out Namespaces_Type;
+    --     Iri : Universal_String);
 
     --  --------------------
     --  Work with namespaces
