@@ -2,6 +2,7 @@
 
 Ada libraries for the Semantic Web.
 
+![GPL Licensed](https://img.shields.io/badge/License-GPLv3-informational?logo=gnu) ![Ada Version](https://img.shields.io/badge/Ada-2012-informational)
 
 # Compiling
 The requirements are
